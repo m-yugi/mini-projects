@@ -234,4 +234,4 @@ while True:
         else: screen.blit(game_start,game_rect)
         
     pygame.display.update()
-    clock.tick(120)
+    clock.tick(60)
